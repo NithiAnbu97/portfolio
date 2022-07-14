@@ -59,7 +59,7 @@ function Footer() {
       <h1 style={{ color: "white", textAlign: "center" }}>
         Design Template by{" "}
         <a
-          href="https://github.com/soumyajit4419/Portfolio"
+          href="https://github.com/NithiAnbu97/portfolio"
           style={{ color: "white" }}
         >
           Nithi Anbu

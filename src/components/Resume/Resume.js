@@ -21,14 +21,13 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
-              title="Team Leader of BookXchanger Project"
-              date="January 2021 - May 2021"
+              title="Fresher"
+              date=""
               content={[
-                "Manages all the major task like collecting the resources and ideas to the documentation part of the Project. And worked with team members to improve the features of website.",
-                "Worked on different features of website and mostly the frontend part of BookXchanger website.",
+                " ",
               ]}
             />
-            <h3 className="resume-title">Extracurricular Activities</h3>
+            {/* <h3 className="resume-title">Extracurricular Activities</h3>
             <Resumecontent
               title="Digital Marketing Executive [Technovanza-2020]"
               content={[
@@ -40,35 +39,32 @@ function Resume() {
               content={[
                 "Work with the PR Manager to create, manage, execute and evaluate all Guest Lectures at Technovanza.",
               ]}
-            />
+            /> */}
           </Col>
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
             <Resumecontent
-              title="B.Tech in Information Technology [VJTI, Mumbai] "
-              date="2019 - Present"
-              content={[`CGPA: 8.13 (Till 4th Sem)`]}
+              title="BE-Civil Engineering [Sakthi Mariamman Engineering College, Chennai] "
+              date="2015 - 2019"
+              content={[`CGPA: 7.2`]}
             />
             <Resumecontent
-              title="12th BOARD [Dr. Babasaheb Ambedkar College, Nagpur]"
-              date="2017 - 2019"
-              content={["Precentage: 74.8%"]}
+              title="12th BOARD [Vidya Vikas Boys Higher Secondary School, Tiruchengodu]"
+              date="2015"
+              content={["Precentage: 80%"]}
             />
             <Resumecontent
-              title="10th BOARD [Agragami Highschool, Wardha] "
-              date="2007 - 2017"
-              content={["Precentage: 96.4%"]}
+              title="10th BOARD [Sri Ayyan Vidyasharam High School, R.K.Pet]"
+              date="2013"
+              content={["Precentage: 94%"]}
             />
             <h3 className="resume-title">Ranks and Achivements</h3>
             <Resumecontent
               title=""
               content={[
-                "Higgest rating on Codechef 1627",
-                "Completed 30 days of Google Cloud Program",
-                "Udacity and AWS ML Scholarship Recipient",
-                "Event Manager of Culturul Fest(Pratibimb)",
-                "Participant in DSC-WOW Hackathon 2020",
-                "Student Volunteer at ISRO, IMD, LIGO and BARC exhibition",
+                "Won a Technical Level Symposium 2018",
+                "Completed Full Stack Development Course in - GUVI",
+
               ]}
             />
           </Col>
