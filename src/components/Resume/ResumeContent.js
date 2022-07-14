@@ -15,7 +15,7 @@ function ResumeContent(props) {
         ))}
       </ul>
     </div>
-  );
+  );    
 }
 
 export default ResumeContent;

@@ -7,6 +7,7 @@ import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.svg";
 import Toolstack from "./Toolstack";
 
+
 function About() {
   return (
     <Container fluid className="about-section">
@@ -50,5 +51,6 @@ function About() {
     </Container>
   );
 }
+
 
 export default About;
